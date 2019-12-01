@@ -21,7 +21,7 @@
 	],
 	"main": "dist/rematch-loading.cjs.js",
 	"module": "dist/rematch-loading.esm.js",
-	"browser": "dist/rematch-loading.umd.js",
+	"browser": "dist/rematch-loading.esm.js",
 	"scripts": {
 		"build": "rimraf build dist && tsc && NODE_ENV=production rollup -c"
 	},

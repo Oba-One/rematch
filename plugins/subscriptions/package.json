@@ -22,7 +22,7 @@
 	],
 	"main": "dist/rematch-subscriptions.cjs.js",
 	"module": "dist/rematch-subscriptions.esm.js",
-	"browser": "dist/rematch-subscriptions.umd.js",
+	"browser": "dist/rematch-subscriptions.esm.js",
 	"directories": {
 		"test": "test"
 	},

@@ -31,7 +31,7 @@
 		"clean:dist": "npx rimraf dist",
 		"test": "jest"
 	},
-	"browser": "dist/rematch-select.umd.js",
+	"browser": "dist/rematch-select.esm.js",
 	"devDependencies": {
 		"@rematch/core": "^1.2.0",
 		"@types/jest": "^24.0.18",
